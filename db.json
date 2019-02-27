@@ -32,6 +32,23 @@
       "manager": "Катя Першина"
     }
   ],
+  "services": [
+    {
+      "id": 1,
+      "name": "seo",
+      "value": false
+    },
+    {
+      "id": 2,
+      "name": "context",
+      "value": true
+    },
+    {
+      "id": 3,
+      "name": "tasks",
+      "value": false
+    }
+  ],
   "employees": [
     {
       "id": 1,
